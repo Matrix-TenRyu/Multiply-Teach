@@ -1,3 +1,5 @@
+That program shows the resolt of an multiply equation and shows how the result works as well;
+
 #include <iostream>
 
 using namespace std;
